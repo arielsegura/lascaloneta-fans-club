@@ -55,7 +55,7 @@ const Faq = ({
           <em>* What is La Scaloneta? </em>
           </p>
           <p>
-            - La Scaloneta refers to the Argentina football national team that played the 2022 WorldCup in Qatar. Its name comes from the coach, Scaloni, and it was a sort of meme and an analogy to an old but good car that is still good enough. You can find a few memes on the internet if you browse.
+            - La Scaloneta refers to the Argentina football national team that won the 2022 WorldCup in Qatar. Its name comes from the coach, Scaloni, and it was a sort of meme and an analogy to an old but good car that is still good enough. You can find a few memes on the internet if you browse.
           </p>
           <p>
           <em>* What is a wallet? </em>
