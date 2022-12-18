@@ -18,7 +18,7 @@ const FooterNav = ({
     >
       <ul className="list-reset">
         <li>
-          <a href="https://twitter.com/arisegu">Contact</a>
+          <a href="mailto:ariel@lascaloneta.fans">Contact</a>
         </li>
         <li>
           <a href="https://twitter.com/arisegu">About us</a>
